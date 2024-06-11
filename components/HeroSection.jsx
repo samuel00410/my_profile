@@ -3,6 +3,7 @@ import React from "react";
 import Image from "next/image";
 import { TypeAnimation } from "react-type-animation";
 
+// 頁首主區塊(組件)
 const HeroSection = () => {
   return (
     <section>
